@@ -1,0 +1,25 @@
+.datosContacto{
+    margin: 150px auto;
+    width:500px;
+    font-size: 18px;
+    text-align: left;
+    font-weight:normal;
+    text-decoration: none;
+}
+ul {
+    list-style-type: none;
+  }
+
+.titulo{
+    font-weight: bold;
+}
+.datos{
+    color: blue;
+}
+
+button{
+    font-size: 14px;
+    padding: 5px;
+    background-color: rgb(114, 114, 136);
+    color: white;
+}
